@@ -133,6 +133,7 @@ disqus_shortname: xxx
 # xxxxx字符串
 baidu_tongji_id: xxxxxxxxxxxx
 google_analytics_id: UA-xxxxxxxx # google 分析追踪id
+百度统计管理页面：https://tongji.baidu.com/web/25426460/overview/index?siteId=11871476
 ```
 
 ## 博客主题使用方法
