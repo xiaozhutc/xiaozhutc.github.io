@@ -6,6 +6,9 @@ tags:  Jekyll
 author: jun.tang
 ---
 
+* content
+{:toc}
+
 ## 1.什么是Jekyll
 `Transform your plain text into static websites and blogs`
 
@@ -23,14 +26,14 @@ author: jun.tang
 
 
 ## 3. 安装Jekyll
-```cmd
+```java
 gem install jekyll
 ```
 
 ## 4. 启动本地服务
-进入Jekyll工程所在目录
+进入Jekyll工程所在目录后执行：
 
-```cmd
+```java
 jekyll s
 ```
 将在本地启动4001端口，并将当前工程转换为静态网站
