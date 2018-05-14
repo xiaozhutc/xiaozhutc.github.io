@@ -47,6 +47,3 @@ type: page
 ## Comments
 
 {% include comments.html %}
-
-* 更换linux系统时区的方法：ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-* linux下安装或升级GCC4.8，以支持C++11标准：https://www.cnblogs.com/lizhenghn/p/3550996.html
