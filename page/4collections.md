@@ -16,8 +16,15 @@ type: page
     在线流程图
 * [gitbook](https://legacy.gitbook.com/explore)
 
+## Java 工具
+
+* [MAT内存泄漏分析工具](http://www.eclipse.org/mat/)
+
 
 ## 编程语言
+
+## 技巧
+* [JNA使用GDB对so进行调试](http://returntojava.blogspot.jp/2008/11/overcome-java-jni-gdb-errors-on.html) 
 
 
 
@@ -40,9 +47,9 @@ type: page
 * [有哪些鲜为人知却非常有意思、好用的 Chrome 扩展？ -知乎](https://www.zhihu.com/question/23228162#answer-28057391)
 * [Dribbble New Tab](https://chrome.google.com/webstore/detail/dribbble-new-tab/hmhjbefkpednjogghoibpejdmemkinbn)
 
-    新建 tab 时，显示 dribbble 上的精选作品。
-
 ## Other blogs
+## 政府官方类网站
+* 渠县政府：[http://www.quxian.gov.cn/](http://www.quxian.gov.cn/)
 
 ## Comments
 
