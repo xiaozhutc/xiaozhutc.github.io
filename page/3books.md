@@ -12,11 +12,14 @@ type: page
 # Java
 ## JVM
 
-* [深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/) 已读
-* [深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/) 已读
+* [深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/) **已读** **有书**
 
 # 分布式
 * [从Paxos到Zookeeper](https://book.douban.com/subject/26292004/) 想读
+
+# 数据库
+
+* [MySQL技术内幕 : InnoDB存储引擎](https://book.douban.com/subject/5373022/) 已读
 
 # Comments
 {% include comments.html %}
