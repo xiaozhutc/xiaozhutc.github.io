@@ -26,6 +26,8 @@ type: page
 ## 技巧
 * [JNA使用GDB对so进行调试](http://returntojava.blogspot.jp/2008/11/overcome-java-jni-gdb-errors-on.html) 
 
+## 资源集合
+* [阿里巴巴矢量图标库](http://iconfont.cn/)
 
 
 ## GitBook 及其插件
@@ -48,8 +50,6 @@ type: page
 * [Dribbble New Tab](https://chrome.google.com/webstore/detail/dribbble-new-tab/hmhjbefkpednjogghoibpejdmemkinbn)
 
 ## Other blogs
-## 政府官方类网站
-* 渠县政府：[http://www.quxian.gov.cn/](http://www.quxian.gov.cn/)
 
 ## Comments
 
