@@ -18,6 +18,7 @@ type: page
 * [51沪牌Q&A](http://51hupai.org/help/QA/you-have-to-know#duiqi)
 
 ##  居转户
+* [宿迁市人民政府](http://www.suqian.gov.cn/cnsq/ldrkhy/wztt.shtml)
 
 ##  医疗
 * [好大夫在线](https://www.haodf.com/) 账号为手机号码
