@@ -17,8 +17,19 @@ type: page
 * [51沪牌模拟](http://moni.51hupai.org/)
 * [51沪牌Q&A](http://51hupai.org/help/QA/you-have-to-know#duiqi)
 
+## Toney
+* 幼儿园：http://yeybm.jdjy.sh.cn/ApplyWebFront/xsbmn.html
+* 
+
 ##  居转户
 * [宿迁市人民政府](http://www.suqian.gov.cn/cnsq/ldrkhy/wztt.shtml)
+* [网上税务局](https://gr.tax.sh.gov.cn/wsz-ww-web/web/shanghai/taxInfo) T*****
+* [上海社会保险服务网--个人办事平台](http://www.12333sh.gov.cn/sbsjb/wzb/226.jsp) 0*****
+* [居住证积分系统](https://jzzjf.12333sh.gov.cn/jzzjf/loginAfter) A*****
+* [居住证积分累计查询](https://jzh.12333sh.gov.cn/jzh/personInfoJzzAction!findPersonJzzInfo.action)
+* [居转户系统](https://jzh.12333sh.gov.cn/jzh/userLoginAction!LoginPerson.action)
+* [区里市里-流程图](https://tieba.baidu.com/p/4825890555?red_tag=0520649142)
+* [住房公积金](https://persons.shgjj.com/MainServlet)
 
 ##  医疗
 * [好大夫在线](https://www.haodf.com/) 账号为手机号码

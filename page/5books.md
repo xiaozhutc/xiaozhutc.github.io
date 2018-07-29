@@ -10,6 +10,8 @@ type: page
 {:toc}
 
 # Java
+* [需要关注的书单](http://cmsblogs.com/?page_id=1942)
+
 ## JVM
 
 * [深入理解Java虚拟机（第2版）](https://book.douban.com/subject/24722612/) **已读** **有书**
