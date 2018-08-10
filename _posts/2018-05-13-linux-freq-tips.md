@@ -18,11 +18,18 @@ ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 ```
 如果使用mv，可能会修改到时区文件
 
-### 2. dump Java进程的堆栈
+### 2. dump Java进程的内存
 ```bash
 jmap   -dump:live,format=b,file=test.hprof ${pid}
 ```
-* live : with unreachable object
+* live : without unreachable object
+
+### 3. 查看进程的所有线程
+    1. ps xH {pid}
+    2. 查看进程信息（包括线程个数）: cat /proc/${pid}/status
+    3. pstree -p ${pid}
+    4. 查看系统进程上限：cat /proc/sys/kernel/pid_max
+    5. 查询系统线程上限：cat /proc/sys/kernel/threads-max
 
 
 
