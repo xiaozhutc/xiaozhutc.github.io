@@ -57,6 +57,9 @@ assertEquals("John", argument.getValue().getName());
 * [GC 性能优化](https://blog.csdn.net/column/details/14851.html)
 * [Java性能优化](https://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651815337&idx=1&sn=8e846e11e908735a5175c9eacb642329)
 * [构造函数不要抛出异常](http://www.cnblogs.com/DreamDrive/p/5621276.html)
+* [Java8 Lambda表达式示例](http://www.importnew.com/16436.html)
+* [Spring bean的生命周期]
+# 学习JPA
 
 ## Concurrent
 * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/) [午夜咖啡](http://jolestar.com/)

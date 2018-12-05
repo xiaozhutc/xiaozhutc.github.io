@@ -31,15 +31,16 @@ jmap   -dump:live,format=b,file=test.hprof ${pid}
     4. 查看系统进程上限：cat /proc/sys/kernel/pid_max
     5. 查询系统线程上限：cat /proc/sys/kernel/threads-max
 
-
-
-
-
-
-### 3. gdb 调试工具
+### 4. gdb 调试工具
 * 调试Java程序中出现的core
 ```bash
-gdb java core.xxx
+1.	gdb app.name
+2.	set args xxxx //设置参数
+3.	b  xxx.cpp:100 //设置断点
+4.  r //运行
+5.	n //下一步
+6   c // continue
+5.	bt // 打印当前堆栈
 ```
 * 查看导致core的线程的堆栈：`bt`
 * 进入某个占帧：`f ${frame_id}`
