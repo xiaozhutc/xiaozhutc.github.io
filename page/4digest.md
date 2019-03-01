@@ -74,6 +74,11 @@ assertEquals("John", argument.getValue().getName());
 * [dubbo源码从入门到放弃-SPI](https://www.cnblogs.com/kindevil-zx/p/5603643.html)
 * [dubbo扩展机制的实现](https://my.oschina.net/pingpangkuangmo/blog/508963)
 
+## Spring
+* [spring-events](https://www.baeldung.com/spring-events)
+* [spring-async](https://www.baeldung.com/spring-async)
+* [spring-SpEL](https://www.baeldung.com/spring-expression-language)
+
 ## Comments
 
 {% include comments.html %}

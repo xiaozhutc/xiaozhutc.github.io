@@ -31,6 +31,8 @@ jmap   -dump:live,format=b,file=test.hprof ${pid}
     4. 查看系统进程上限：cat /proc/sys/kernel/pid_max
     5. 查询系统线程上限：cat /proc/sys/kernel/threads-max
 
+### 4.
+
 ### 4. gdb 调试工具
 * 调试Java程序中出现的core
 ```bash

@@ -19,7 +19,21 @@ type: page
 
 ## Toney
 * 幼儿园：http://yeybm.jdjy.sh.cn/ApplyWebFront/xsbmn.html
-* 
+*
+
+## 学区房
+* 房天下: https://sh.esf.fang.com/school-a028/
+* 星多多：http://www.xingdd.com/district/putuo
+* 常见问题：http://www.xingdd.com/quiz/answers/5c6caa4e0cf24b9dc12539f8
+###中山北路一小（区重点，区一梯队）
+* 星多多评价：http://www.xingdd.com/school/zhongshanbeiludiyixiaoxue
+** 石泉路97弄，180万可谈，15021195491：https://sh.esf.fang.com/chushou/3_342329605.htm?channel=1,2
+** 石光小区，180万可谈：https://sh.esf.fang.com/chushou/3_341836134.htm?channel=1,2
+** 石光小区，200万，15021195491：https://sh.esf.fang.com/chushou/3_342200423.htm?channel=1,2
+
+###武宁路小学（区重点，区一梯队）
+* 星多多评价：http://www.xingdd.com/school/wuningluxuexiao
+
 
 ##  居转户
 * [宿迁市人民政府](http://www.suqian.gov.cn/cnsq/ldrkhy/wztt.shtml)
