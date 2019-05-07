@@ -31,7 +31,10 @@ jmap   -dump:live,format=b,file=test.hprof ${pid}
     4. 查看系统进程上限：cat /proc/sys/kernel/pid_max
     5. 查询系统线程上限：cat /proc/sys/kernel/threads-max
 
-### 4.
+### 4.python启动httpserver
+```bash
+python -m SimpleHTTPServer 8000 &
+```
 
 ### 4. gdb 调试工具
 * 调试Java程序中出现的core
@@ -46,6 +49,12 @@ jmap   -dump:live,format=b,file=test.hprof ${pid}
 ```
 * 查看导致core的线程的堆栈：`bt`
 * 进入某个占帧：`f ${frame_id}`
+
+###6. 公钥免登录
+```bash
+ssh-keygen -t rsa
+ssh-copy-id -i ~/.ssh/id_rsa.pub admin@172.16.227.245
+```
 
 
 ## 开发环境

@@ -79,6 +79,12 @@ assertEquals("John", argument.getValue().getName());
 * [spring-async](https://www.baeldung.com/spring-async)
 * [spring-SpEL](https://www.baeldung.com/spring-expression-language)
 
+## 经济
+* M1反映着经济中的现实购买力；M2不仅反映现实的购买力，还反映潜在的购买力。若M1增速较快，则消费和终端市场活跃；若M2增速较快，则投资和中间市场活跃
+
+## 经典语录
+人生最幸福的事：父母健在，知己两三，盗不走的爱人。其他都是假象，别太计较
+
 ## Comments
 
 {% include comments.html %}
