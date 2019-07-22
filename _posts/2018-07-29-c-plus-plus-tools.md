@@ -23,3 +23,9 @@ author: jun.tang
 ## 3. JNA
 * [Frequently Asked Questions](https://github.com/java-native-access/jna/blob/master/www/FrequentlyAskedQuestions.md)
 * [JNA Example](http://www.eshayne.com/jnaex/index.html?example=6)
+
+## 4. 内存泄漏排查
+* valgrind --log-file=./log --leak-check=full --show-leak-kinds=all --show-reachable=yes --track-origins=yes xx.exe > log.log
+
+## CMake
+* 指定连接目录：link_directories(${STATIC_LIB_OUTPUT_PATH} ${SHARED_LIB_OUTPUT_PATH} /usr/local/lib)

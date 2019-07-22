@@ -53,7 +53,17 @@ python -m SimpleHTTPServer 8000 &
 ###6. 公钥免登录
 ```bash
 ssh-keygen -t rsa
-ssh-copy-id -i ~/.ssh/id_rsa.pub admin@172.16.227.245
+ssh-copy-id -i ~/.ssh/id_rsa.pub admin@127.0.0.1
+```
+
+### java 内存类柱状图
+```bash
+jmap -histo 22760|less
+```
+
+### TCP dump
+```bash
+tcpdump -i eth0 -s 0 src host 127.0.0.1 port 59629
 ```
 
 
