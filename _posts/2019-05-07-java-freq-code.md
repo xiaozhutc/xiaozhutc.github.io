@@ -66,3 +66,20 @@ redisOperations.execute(new SessionCallback() {
             }
         })
 ```
+
+## JUC
+* StampedLock : http://blog.sina.com.cn/s/blog_6f5e71b30102xfsb.html
+    为了解决ReentrantReadWriteLock中写饥饿的问题：由于读多写少，导致写线程长时间得不到时间片。
+    思路：在读加锁前，先用乐观锁进行尝试。减少读锁
+```java
+        long r = lock.tryOptimisticRead(); //精髓步骤
+        Object result = dosomething();
+        if (!lock.validate(r)) {
+            r = lock.readLock(); // 读锁
+            try {
+                result = dosomething();
+            } finally {
+                lock.unlockRead(r);
+            }
+        }
+```
