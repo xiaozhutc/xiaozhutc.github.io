@@ -11,13 +11,15 @@ type: page
 
 ## 工具
 
+    在线流程图
 * [coggle.it](https://coggle.it/)
 
-    在线流程图
 * [gitbook](https://legacy.gitbook.com/explore)
 
     时序图 UML
 * [plantuml](http://plantuml.com/sequence-diagram)
+
+* [原型工具axure](https://www.axure.com/downloadthanks?dl=80pc)
 
 ## Java 工具
 
