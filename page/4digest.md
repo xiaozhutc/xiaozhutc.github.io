@@ -15,7 +15,7 @@ type: page
 
 ## 开源项目
 * [国内顶尖团队的开源项目](https://github.com/niezhiyang/open_source_team)
-* []
+* [免费书籍](http://github.com/xiaozhutc/free-programming-books/blob/master/free-programming-books-zh.md)
 
 ## Mysql
 * [late row lookup](https://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/) [待研究]
